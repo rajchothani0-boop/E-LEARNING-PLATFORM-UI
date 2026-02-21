@@ -24,4 +24,8 @@ CSS: layout styling and responsiveness
 JavaScript: progress tracking using local storage
 EDITOR: Visual Studio Code
 BROWSER: Google Chrome
+
 #OUTPUT:
+<img width="1849" height="449" alt="Image" src="https://github.com/user-attachments/assets/73bdfc20-3ce5-471a-9d89-24f59a04119d" />
+<img width="1842" height="345" alt="Image" src="https://github.com/user-attachments/assets/a670e1b8-1e03-4059-8740-33ad6a116729" />
+<img width="1832" height="344" alt="Image" src="https://github.com/user-attachments/assets/df8dd980-7e56-4b77-b739-7c1c76e973c6" />
